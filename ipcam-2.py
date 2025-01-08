@@ -3,7 +3,7 @@ import os
 import time
 
 # Directory where images will be saved
-image_directory = '/home/ubuntu/img'
+image_directory = '/app/ubuntu/img'
 
 # Ensure the directory exists
 if not os.path.exists(image_directory):
